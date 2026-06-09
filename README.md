@@ -14,17 +14,19 @@
 
 </div>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1F6FEB&height=60&text=Sobre&fontColor=ffffff&fontSize=30&fontAlignY=55&animation=fadeIn&width=500" alt="Sobre" />
+</div>
 
-## Sobre
+> Engenheiro de Software Full-Stack focado em construir produtos completos — do backend à interface — com qualidade de produção. Atuo em aplicações web e mobile, APIs, automação de processos e integrações entre sistemas.
+>
+> Trabalho com tipagem estável, cobertura de testes sólida e entregas polidas de ponta a ponta. Mais de **4.700 contribuições registradas em 2026** — desenvolvimento em ritmo constante.
 
-Engenheiro de Software Full-Stack focado em construir produtos completos — do backend à interface — com qualidade de produção. Atuo em aplicações web e mobile, APIs, automação de processos e integrações entre sistemas.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1F6FEB&height=60&text=Especialidades&fontColor=ffffff&fontSize=30&fontAlignY=55&animation=fadeIn&width=500" alt="Especialidades" />
+</div>
 
-Trabalho com tipagem estável, cobertura de testes sólida e entregas polidas de ponta a ponta. Mais de **4.700 contribuições registradas em 2026** — desenvolvimento em ritmo constante.
-
-## Especialidades
-
-<table>
+<table align="center">
   <tr>
     <td align="center" width="50%">
       <br/>
@@ -81,7 +83,9 @@ Trabalho com tipagem estável, cobertura de testes sólida e entregas polidas de
   </tr>
 </table>
 
-## Atividade no GitHub
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1F6FEB&height=60&text=Atividade%20no%20GitHub&fontColor=ffffff&fontSize=30&fontAlignY=55&animation=fadeIn&width=500" alt="Atividade no GitHub" />
+</div>
 
 <div align="center">
 
@@ -90,8 +94,6 @@ Trabalho com tipagem estável, cobertura de testes sólida e entregas polidas de
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=donizetiferr&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20ao%20longo%20do%20tempo" alt="Activity Graph" width="100%" />
 
 </div>
-
----
 
 <div align="center">
 
