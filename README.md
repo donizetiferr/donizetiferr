@@ -20,7 +20,23 @@
 
 > Engenheiro de Software Full-Stack focado em construir produtos completos — do backend à interface — com qualidade de produção. Atuo em aplicações web e mobile, APIs, automação de processos e integrações entre sistemas.
 >
-> Trabalho com tipagem estável, cobertura de testes sólida e entregas polidas de ponta a ponta. Mais de **4.700 contribuições registradas em 2026** — desenvolvimento em ritmo constante.
+> Trabalho com tipagem estável, cobertura de testes sólida e entregas polidas de ponta a ponta. Mais de **9 mil contribuições no último ano** (medição de agosto de 2026) — desenvolvimento em ritmo constante.
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1F6FEB&height=60&text=Projeto%20em%20destaque&fontColor=ffffff&fontSize=30&fontAlignY=55&animation=fadeIn&width=500" alt="Projeto em destaque" />
+</div>
+
+### [forecast-calibration-kit](https://github.com/donizetiferr/forecast-calibration-kit)
+
+Toolkit TypeScript para avaliar previsões probabilísticas com **Brier score, log loss, ECE, curva de calibração e decomposição de Murphy**.
+
+- Zero dependências em runtime; API tipada para ESM e CommonJS.
+- CLI para analisar datasets JSON diretamente no terminal.
+- CI automatizada, 98% de cobertura e pacote publicado no npm.
+
+[![npm](https://img.shields.io/npm/v/forecast-calibration-kit?style=flat-square&logo=npm)](https://www.npmjs.com/package/forecast-calibration-kit)
+[![CI](https://img.shields.io/github/actions/workflow/status/donizetiferr/forecast-calibration-kit/ci.yml?style=flat-square&label=CI)](https://github.com/donizetiferr/forecast-calibration-kit/actions/workflows/ci.yml)
+[![Coverage](https://img.shields.io/badge/coverage-98%25-brightgreen?style=flat-square)](https://github.com/donizetiferr/forecast-calibration-kit)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1F6FEB&height=60&text=Especialidades&fontColor=ffffff&fontSize=30&fontAlignY=55&animation=fadeIn&width=500" alt="Especialidades" />
@@ -92,6 +108,14 @@
 <img src="https://streak-stats.demolab.com?user=donizetiferr&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9" alt="GitHub Streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=donizetiferr&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20ao%20longo%20do%20tempo" alt="Activity Graph" width="100%" />
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1F6FEB&height=60&text=Contato&fontColor=ffffff&fontSize=30&fontAlignY=55&animation=fadeIn&width=500" alt="Contato" />
+
+[![X](https://img.shields.io/badge/X-@DonizetiFerre16-111111?style=for-the-badge&logo=x)](https://x.com/DonizetiFerre16)
+[![npm](https://img.shields.io/badge/npm-forecast--calibration--kit-CB3837?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/forecast-calibration-kit)
 
 </div>
 
