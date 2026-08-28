@@ -106,8 +106,6 @@ Zero-dependency TypeScript toolkit for evaluating probabilistic forecasts with *
 
 <img src="https://streak-stats.demolab.com?user=donizetiferr&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9" alt="GitHub Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=donizetiferr&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true&custom_title=Contributions%20over%20time" alt="Activity Graph" width="100%" />
-
 </div>
 
 <div align="center">
