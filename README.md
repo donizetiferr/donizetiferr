@@ -32,10 +32,9 @@ Toolkit TypeScript para avaliar previsões probabilísticas com **Brier score, l
 
 - Zero dependências em runtime; API tipada para ESM e CommonJS.
 - CLI para analisar datasets JSON diretamente no terminal.
-- CI automatizada, 98% de cobertura e pacote publicado no npm.
+- 98% de cobertura e pacote publicado no npm.
 
 [![npm](https://img.shields.io/npm/v/forecast-calibration-kit?style=flat-square&logo=npm)](https://www.npmjs.com/package/forecast-calibration-kit)
-[![CI](https://img.shields.io/github/actions/workflow/status/donizetiferr/forecast-calibration-kit/ci.yml?style=flat-square&label=CI)](https://github.com/donizetiferr/forecast-calibration-kit/actions/workflows/ci.yml)
 [![Coverage](https://img.shields.io/badge/coverage-98%25-brightgreen?style=flat-square)](https://github.com/donizetiferr/forecast-calibration-kit)
 
 <div align="center">
