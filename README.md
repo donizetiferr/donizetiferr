@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=200&section=header&text=Donizeti%20Ferreira&fontColor=ffffff&fontSize=50&desc=Full-Stack%20Software%20Engineer&descSize=20&descAlignY=62&animation=fadeIn" alt="Donizeti Ferreira" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=200&section=header&text=Donizeti%20Ferreira&fontColor=ffffff&fontSize=50&desc=One%20person%20in%20place%20of%20an%20entire%20tech%20team&descSize=20&descAlignY=62&animation=fadeIn" alt="Donizeti Ferreira" width="100%" />
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Web+%C2%B7+Mobile+%C2%B7+Backend+%C2%B7+Automation;TypeScript+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Node.js;Production-ready+products+from+end+to+end" alt="Web, mobile, backend and automation" />
@@ -18,9 +18,11 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1F6FEB&height=60&text=About&fontColor=ffffff&fontSize=30&fontAlignY=55&animation=fadeIn&width=500" alt="About" />
 </div>
 
-> Full-stack software engineer focused on building complete, production-ready products—from backend systems to polished interfaces. I work across web and mobile applications, APIs, process automation, and system integrations.
+> I take over a company's engineering for a flat monthly fee — building what's missing, automating what's manual, keeping what already runs from breaking, and owning the day-to-day. Not an agency, not project freelancing: one person, under contract, inside the operation.
 >
-> I value strict typing, solid test coverage, and reliable end-to-end delivery. More than **9,000 contributions in the past year** (measured in August 2026) reflect a consistent shipping cadence.
+> Web and mobile applications, APIs, process automation and system integrations. I value strict typing, solid test coverage and reliable end-to-end delivery. More than **9,000 contributions in the past year** (measured in August 2026) reflect a consistent shipping cadence — most of them in private client repositories, which is where contract work happens.
+>
+> **[d7bots.com](https://d7bots.com/en)** — what I do, and for whom.
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1F6FEB&height=60&text=Featured%20Project&fontColor=ffffff&fontSize=30&fontAlignY=55&animation=fadeIn&width=500" alt="Featured Project" />
@@ -111,6 +113,8 @@ Zero-dependency TypeScript toolkit for evaluating probabilistic forecasts with *
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1F6FEB&height=60&text=Contact&fontColor=ffffff&fontSize=30&fontAlignY=55&animation=fadeIn&width=500" alt="Contact" />
 
+[![Site](https://img.shields.io/badge/d7bots.com-F0D486?style=for-the-badge&logoColor=0D1117)](https://d7bots.com/en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/donizetiferreira/)
 [![X](https://img.shields.io/badge/X-@DonizetiFerre16-111111?style=for-the-badge&logo=x)](https://x.com/DonizetiFerre16)
 [![npm](https://img.shields.io/badge/npm-forecast--calibration--kit-CB3837?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/forecast-calibration-kit)
 
